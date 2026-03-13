@@ -1,16 +1,16 @@
-# AI Agents Learning Journey
+# AI Systems & Agents
 
-This repository contains my notes and experiments while learning AI Agents and advanced LLM architectures.
+This repository documents my journey building advanced AI systems.
 
-Topics covered:
+Focus Areas
 
-- AI Agents
-- RAG (Retrieval Augmented Generation)
-- Agent Architectures
-- Tool Use in LLMs
-- Frameworks like LangChain and AutoGPT
+• AI Agents  
+• Retrieval Augmented Generation (RAG)  
+• LLM Tool Use  
+• Autonomous AI Workflows  
+• AI Automation Systems
 
-Goal:
-To understand how intelligent AI systems can autonomously perform tasks using reasoning, tools, and memory.
+Projects
 
-These notes are part of my journey building AI systems and automation tools.
+• Private knowledge chatbot using RAG
+• AI automation for business workflows
